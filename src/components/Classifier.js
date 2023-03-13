@@ -50,8 +50,8 @@ export default function Classifier() {
                 { !loaded && !isLoading && <Button variant="contained" onClick={startLoadModel}>Load model (48 MB)</Button>}
                 { !loaded && isLoading && <LoadingSnackbar message="Loading model..." /> }
                 { loaded && data && !outputMap && <LoadingSnackbar message="Running model..." /> }
-                { loaded && !file && <InfoSnackbar message="Add or take a picture..." /> }
-                { !!file && !data && <LoadingSnackbar message="Loading image..." /> }
+                { loaded && !file && <InfoSnackbar message="Upload a music clip file ..." /> }
+                { !!file && !data && <LoadingSnackbar message="Loading music..." /> }
             </Grid>
             <Grid item>
                 <Predictions output={outputData} />
