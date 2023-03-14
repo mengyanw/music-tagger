@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c25c8d4ebe3796eaeef5fbc5e71e7758",
+    "revision": "5239baf861beaf7f01f112db9de6787c",
     "url": "/music-tagger/index.html"
   },
   {
-    "revision": "2489d5a46d8737d451ab",
-    "url": "/music-tagger/static/js/2.53cd735d.chunk.js"
+    "revision": "4c922cf0e9572f7fa501",
+    "url": "/music-tagger/static/js/2.ab6143b6.chunk.js"
   },
   {
-    "revision": "3ce4c6c4c4598dd6f1db",
-    "url": "/music-tagger/static/js/main.8c40c848.chunk.js"
+    "revision": "08ac223e1d54df6ef9da",
+    "url": "/music-tagger/static/js/main.8f74c41d.chunk.js"
   },
   {
     "revision": "5289383b5f0cc5accacb",

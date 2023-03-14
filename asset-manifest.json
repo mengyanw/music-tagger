@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/music-tagger/static/js/main.8c40c848.chunk.js",
-    "main.js.map": "/music-tagger/static/js/main.8c40c848.chunk.js.map",
+    "main.js": "/music-tagger/static/js/main.8f74c41d.chunk.js",
+    "main.js.map": "/music-tagger/static/js/main.8f74c41d.chunk.js.map",
     "runtime-main.js": "/music-tagger/static/js/runtime-main.31226f1e.js",
     "runtime-main.js.map": "/music-tagger/static/js/runtime-main.31226f1e.js.map",
-    "static/js/2.53cd735d.chunk.js": "/music-tagger/static/js/2.53cd735d.chunk.js",
-    "static/js/2.53cd735d.chunk.js.map": "/music-tagger/static/js/2.53cd735d.chunk.js.map",
+    "static/js/2.ab6143b6.chunk.js": "/music-tagger/static/js/2.ab6143b6.chunk.js",
+    "static/js/2.ab6143b6.chunk.js.map": "/music-tagger/static/js/2.ab6143b6.chunk.js.map",
     "index.html": "/music-tagger/index.html",
-    "precache-manifest.91155a520d4c6fce98ca692f4edf1a5f.js": "/music-tagger/precache-manifest.91155a520d4c6fce98ca692f4edf1a5f.js",
+    "precache-manifest.374e41c7e764f029fb2e221e45a35105.js": "/music-tagger/precache-manifest.374e41c7e764f029fb2e221e45a35105.js",
     "service-worker.js": "/music-tagger/service-worker.js",
     "static/media/dogs-resnet18.onnx": "/music-tagger/static/media/dogs-resnet18.e15a2861.onnx"
   },
   "entrypoints": [
     "static/js/runtime-main.31226f1e.js",
-    "static/js/2.53cd735d.chunk.js",
-    "static/js/main.8c40c848.chunk.js"
+    "static/js/2.ab6143b6.chunk.js",
+    "static/js/main.8f74c41d.chunk.js"
   ]
 }
