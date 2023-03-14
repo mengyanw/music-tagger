@@ -51,7 +51,6 @@ const useStyles = makeStyles(theme => ({
 
 function Home() {
     const classes = useStyles();
-    console.log("home")
     return <>
         <Container className={classes.content}>
             <Classifier />
