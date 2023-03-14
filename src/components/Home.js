@@ -124,9 +124,9 @@ function Home() {
 
                 </ExpansionPanelDetails>
             </ExpansionPanel>
-            <footer className={classes.footer}>
+            {/* <footer className={classes.footer}>
                 <Button className={classes.button}>Developed by Mengyan Wu, Yuxiao Liu, Zihui Liu</Button>
-            </footer>
+            </footer> */}
         </Container>
   </>;
 }

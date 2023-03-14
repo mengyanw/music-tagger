@@ -25,8 +25,8 @@ import Toolbar from '@material-ui/core/Toolbar';
 
 import { Route, BrowserRouter, Switch, Link } from "react-router-dom";
 import Home from './Home';
-import Video from './Video';
 import Report from './Report';
+import Contact from './Contact';
 
 const useStyles = makeStyles(theme => ({
     root: {
@@ -59,16 +59,16 @@ function App() {
                                     to="/"
                                 />
                                 <Tab
-                                    value="/video"
-                                    label="Video"
-                                    component={Link}
-                                    to="/video"
-                                />
-                                <Tab
                                     value="/report"
                                     label="Report"
                                     component={Link}
                                     to="/report"
+                                />
+                                <Tab
+                                    value="/contact"
+                                    label="Contact"
+                                    component={Link}
+                                    to="/contact"
                                 />
                             </Tabs>
                             </Toolbar>
@@ -78,8 +78,8 @@ function App() {
 
                 <Switch>
                     <Route exact path="/" component={Home} />
-                    <Route path="/video" component={Video} />
-                    <Route path="/report" component={Report} /> 
+                    <Route path="/report" component={Report} />
+                    <Route path="/contact" component={Contact} />
                 </Switch>
             </BrowserRouter>
         </div>

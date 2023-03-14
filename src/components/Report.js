@@ -7,10 +7,6 @@ const useStyles = makeStyles(theme => ({
     content: {
         marginBottom: 100,
         marginTop: 100,
-        // display: 'flex',
-        // flexGrow: 1,
-        // justifyContent: 'center',
-        // alignItems: "center",
     },
 }));
 
